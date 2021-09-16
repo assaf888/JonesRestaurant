@@ -3,7 +3,7 @@
 Created 2 endpoints for creating an order and getting all orders for the last 24 hours.  
 Created Unit tests for the endpoints.
 
-## Before running anything, make sure to add the .env file (which is attached to the email) to the root of the project folder .
+# Before running anything, make sure to add the .env file (which is attached to the email) to the root of the project folder .
 
 ### How to run endpoints:
 * `npm install`
