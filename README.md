@@ -20,8 +20,7 @@ POST localhost:3000/orders
         }]
 }
 ```
-* `Make a GET request to this URL localhost:3000/orders`
-* 
+* `For GET request`
 ```http
 GET localhost:3000/orders
 ```
