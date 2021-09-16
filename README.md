@@ -24,6 +24,15 @@ POST localhost:3000/orders
 ```http
 GET localhost:3000/orders
 ```
+## Status Codes
+
+| Status Code | Description |
+| :--- | :--- |
+| 200 | `OK` |
+| 201 | `CREATED` |
+| 400 | `BAD REQUEST` |
+| 503 | `SERVICE UNAVAILABLE` |
+
 
 ## How to run tests:
 * `npm test app.test.js`
