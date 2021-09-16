@@ -10,7 +10,8 @@ Created Unit tests for the endpoints.
 * `npm start`
 * `Make a POST request to this URL localhost:3000/orders`
 * `Make sure post request follows this structure:`
-```
+```http
+POST localhost:3000/orders
 {
     "order": [{
         "name": "xxx",
