@@ -19,6 +19,10 @@ Created Unit tests for the endpoints.
 }
 ```
 * `Make a GET request to this URL localhost:3000/orders`
+* 
+```http
+GET localhost:3000/orders
+```
 
 ## How to run tests:
 * `npm test app.test.js`
