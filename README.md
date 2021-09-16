@@ -8,7 +8,8 @@ Created Unit tests for the endpoints.
 ### How to run endpoints:
 * `npm install`
 * `npm start`
-* `Make a post request with this structure:`
+* `Make a POST request to this URL localhost:3000/orders`
+* `Make sure post request follows this structure:`
 ```
 {
     "order": [{
@@ -17,6 +18,7 @@ Created Unit tests for the endpoints.
         }]
 }
 ```
+* `Make a GET request to this URL localhost:3000/orders`
 
 ## How to run tests:
 * `npm test app.test.js`
