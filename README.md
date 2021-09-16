@@ -8,8 +8,7 @@ Created Unit tests for the endpoints.
 ### How to run endpoints:
 * `npm install`
 * `npm start`
-* `Make a POST request to this URL localhost:3000/orders`
-* `Make sure post request follows this structure:`
+* `Submit POST request to the endpoint below and make sure you follow this structure:`
 ```http
 POST localhost:3000/orders
 ```
